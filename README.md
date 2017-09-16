@@ -1,2 +1,1 @@
-# Hadoop-Assignment1
-Hadoop Assignment1
+HADOOP ASSIGNMENT
